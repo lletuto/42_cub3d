@@ -1,0 +1,18 @@
+
+
+F 130, 70, 90
+C 43, 89, 243
+
+WE ./textures/wall.xpm
+EA ./textures/wall.xpm
+S ./textures/wall.xpm
+NO ./textures/wall.xpm
+
+1111111
+1000001
+1000001
+1010001
+1000001
+1000001
+1000001
+1111111
